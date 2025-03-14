@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExamenUC2_HuertaJose" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorSecondary">@color/purple</item>
+    </style>
+
+    <style name="Theme.ExamenUC2_HuertaJose" parent="Base.Theme.ExamenUC2_HuertaJose" />
+</resources>
